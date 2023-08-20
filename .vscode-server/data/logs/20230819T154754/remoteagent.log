@@ -1,0 +1,11 @@
+2023-08-19 15:47:55.161 [info] 
+
+
+
+
+2023-08-19 15:47:55.161 [info] Extension host agent started.
+2023-08-19 15:47:55.212 [info] Started initializing default profile extensions in extensions installation folder. file:///home/realsvaq/.vscode-server/extensions
+2023-08-19 15:47:55.232 [info] [127.0.0.1][3551f5c9][ManagementConnection] New connection established.
+2023-08-19 15:47:55.667 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/realsvaq/.vscode-server/extensions
+2023-08-19 15:47:55.779 [info] [127.0.0.1][7661f885][ExtensionHostConnection] New connection established.
+2023-08-19 15:47:55.866 [info] [127.0.0.1][7661f885][ExtensionHostConnection] <2762> Launched Extension Host Process.

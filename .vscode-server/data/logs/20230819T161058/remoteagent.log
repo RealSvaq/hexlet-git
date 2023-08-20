@@ -1,0 +1,30 @@
+2023-08-19 16:10:58.775 [info] 
+
+
+
+
+2023-08-19 16:10:58.822 [info] Extension host agent started.
+2023-08-19 16:10:58.952 [info] [127.0.0.1][c16d8402][ManagementConnection] New connection established.
+2023-08-19 16:10:59.437 [info] [127.0.0.1][ede146ee][ExtensionHostConnection] New connection established.
+2023-08-19 16:10:59.449 [info] [127.0.0.1][ede146ee][ExtensionHostConnection] <69> Launched Extension Host Process.
+2023-08-19 16:11:26.088 [info] [127.0.0.1][c16d8402][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-08-19 16:11:26.091 [error] Error: Throttler is disposed
+    at r.queue (/home/realsvaq/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /home/realsvaq/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /home/realsvaq/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-19 16:11:26.178 [info] [127.0.0.1][ede146ee][ExtensionHostConnection] <69> Extension Host Process exited with code: 0, signal: null.
+2023-08-19 16:11:29.663 [info] [127.0.0.1][61e6d891][ManagementConnection] New connection established.
+2023-08-19 16:11:32.334 [info] [127.0.0.1][ebda06e2][ExtensionHostConnection] New connection established.
+2023-08-19 16:11:32.347 [info] [127.0.0.1][ebda06e2][ExtensionHostConnection] <139> Launched Extension Host Process.
+2023-08-19 16:12:01.550 [info] [127.0.0.1][61e6d891][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-08-19 16:12:01.552 [error] Error: Throttler is disposed
+    at r.queue (/home/realsvaq/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /home/realsvaq/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /home/realsvaq/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-19 16:12:01.585 [info] [127.0.0.1][ebda06e2][ExtensionHostConnection] <139> Extension Host Process exited with code: 0, signal: null.
